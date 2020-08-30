@@ -1,6 +1,6 @@
 package Week_01;
 
-public class Aquamanile {
+public class MaxArea {
 
     //思路 下标距离和两个值中较小的值
 
